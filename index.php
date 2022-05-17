@@ -43,7 +43,7 @@
 
                     </li>
                     <li>
-                        <button class="reg"><a href="#section8">REGISTER</a></button>
+                        <button class="reg"><a href="register.php">REGISTER</a></button>
                     </li>
 
 
