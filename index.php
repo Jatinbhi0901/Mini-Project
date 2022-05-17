@@ -243,7 +243,7 @@
     </section>
 
 
-    <section class="section8" id="section8">
+    <!-- <section class="section8" id="section8">
         <div class="container8">
 
             <h2>Contact Details</h2>
@@ -256,7 +256,7 @@
             <div class="regi2">
                 <h5>Registration for free</h5>
                 <h4>Name</h4>
-                <form onsubmit="success()">
+                <form >
                     <input type="text">
                 </form>
 
@@ -275,16 +275,7 @@
             </div>
 
             <div class="clearfix"></div>
-            <!-- <script>
-                function success() {
-                    swal({
-                        title: "Good job!",
-                        text: "You clicked the button!",
-                        icon: "success",
-                        button: "Aww yiss!",
-                    });
-                }
-            </script> -->
+           
 
         </div>
     </section>
@@ -293,10 +284,11 @@
 
 
 
+ -->
 
 
-
-
+<br>
+<br><br>
 
     <section class="section9">
         <div class="container9">
