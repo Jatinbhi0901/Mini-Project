@@ -1,13 +1,16 @@
-
-    <section class="nav1">
+<section class="nav1">
         <div class="bar1">
 
             <div class="m1" text-align="right">
 
+
                 <ul>
+
                     <li>
+                        <img src="images/mainlogo.jpg" alt="" width="100px" class="logo">
+                    </li>
+                    <li class="bar3">
                         <img src="images/world-icon.png" alt="">
-                        <img src="../images/world-icon.png" alt="">
                         <a href="#">World Tour</a>
                     </li>
 
@@ -15,30 +18,28 @@
 
                     <li>
                         <img src="images/time-icon.png" alt="">
-                        <img src="../images/time-icon.png" alt="">
                         <a href="#">9AM-10PM</a>
                     </li>
 
 
 
                     <li>
-                        <img src="images/phone-icon.png" alt="">
-                        <img src="../images/phone-icon.png" alt="">
+                        <img src="images/phone-icon.png" alt="" width="50px">
                         <a href="#">+91 9172942152</a>
                     </li>
-                    <li>
-                        <button class="lo"><a href="login.php">LOGIN</a></button>
-                        
 
+                    <li class="bar4">
+                        <img
+                            src="https://img.icons8.com/external-gradients-pause-08/64/000000/external-aeroplane-travel2-gradients-pause-08.png" width="50px"/>
                     </li>
                     <li>
-                        <button class="reg"><a href="register.php">REGISTER</a></button>
+                        <img src="https://img.icons8.com/nolan/64/train.png"  width="50px"/>
                     </li>
-
-
-
+                    <li>
+                        <img
+                            src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/000000/external-ship-ecommerce-icongeek26-outline-gradient-icongeek26.png" width="50px"/>
+                    </li>
                 </ul>
-
 
 
             </div>
@@ -46,6 +47,8 @@
 
         </div>
     </section>
+
+    
 
 
     <section class="nav2">

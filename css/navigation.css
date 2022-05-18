@@ -10,20 +10,23 @@
 
 /*part1*/
 
+
 .bar1{
     
     border: 1px solid black;
     margin: auto;
     padding: 0%;
     background-color:#0a3d62;
-    vertical-align: middle;
+}
+.bar3{
+    margin-left: 13rem;
+}
+.bar4{
+    margin-left: 4rem;
 }
 
 .m1 ul{
     list-style: none;
-    text-align: center;
-    margin-left: 28rem;
-    
     
 }
 .m1 ul li{
@@ -44,21 +47,9 @@ a{
 a:hover{
     color: red;
 }
-.lo{
-    font-size: 15px;
-    background-color: transparent;
-    color: white;
-    border: none;
-    margin-left: 15rem;
+.logo{
+    margin-left: 3rem;
 }
-.reg{
-    font-size: 15px;
-    background-color: transparent;
-    color: white;
-    border: none;
-    margin-left: -2rem;
-}
-
 
 
 
@@ -101,3 +92,6 @@ b:hover{
 
 
 
+.logo{
+    float: left;
+}
