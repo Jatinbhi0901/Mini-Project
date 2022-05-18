@@ -31,12 +31,10 @@
           <a href="">Forget Password</a>
           <br />
           
+          <input type="submit" name="submit" value="Create Account" class="btn2">
+      
+          <input type="submit" name="value" value="Login" class="btn1">
           
-        
- 
-          <button class="btn2" onclick="navigate()">create account</button>
-          
-          <button class="btn1" type="submit" name="value">Login</button>
          
         </form>
         
@@ -69,6 +67,9 @@
             alert("Login failed");
           </script>';
           }
+        }
+        if(isset($_POST['submit'])){
+          header("location: register.php");
         }
         
       ?>

@@ -28,7 +28,7 @@
       
       <br />
       <br />
-       <button class="b1">Back</button>
+      <input type="submit" name="submit" value="Back" class="b1" >
       <input type="submit" name="value" value="Register" class="b2" >
       
       </form>
@@ -51,14 +51,19 @@
         if($res==TRUE){
             echo '<script>
                   alert("Registered Successfully");
+                  window.history.go(-2);
                   </script>';
 
         }
         else{
           echo '<script>
                   alert("Registeration failed");
+                  window.history.go(-1);
                 </script>';
         }
+      }
+      if(isset($_POST['submit'])){
+        header("location: login.php");
       }
     ?>
   </body>
