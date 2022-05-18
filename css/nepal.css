@@ -25,24 +25,24 @@ h4{
     animation: slider 12s infinite;
     opacity: inherit;
     overflow: hidden;
+  
     margin-left: 11.5rem;
     
   }
   @keyframes slider {
     0% {
-      background-image: url(../images/sikkim/s1.jpg);
+      background-image: url(../images/nepal/n1.jpg);
     }
     33.33% {
-      background-image: url(../images/sikkim/s2.jpg);
+      background-image: url(../images/nepal/n2.jpg);
     }
     66.66% {
-      background-image: url(../images/sikkim/s3.jpg);
+      background-image: url(../images/nepal/n3.jpg);
     }
     100% {
-        background-image: url(../images/sikkim/s1.jpg);
+      background-image: url(../images/nepal/n1.jpg);
     }
   }
- 
   .container2{
       background-color: #dfe6e9;
       width: 29.5%;

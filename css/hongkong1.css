@@ -30,16 +30,16 @@ h4{
   }
   @keyframes slider {
     0% {
-      background-image: url(../images/hongkong1/hk1.jpg);
+      background-image: url(../images/hongkong1/h2.jpg);
     }
     33.33% {
-      background-image: url(../images/hongkong1/hk2.jpg);
+      background-image: url(../images/hongkong1/h1.jpg);
     }
     66.66% {
-      background-image: url(../images/hongkong1/hk3.jpg);
+      background-image: url(../images/hongkong1/h3.jpg);
     }
     100% {
-        background-image: url(../images/hongkong1/hk4.jpg);
+        background-image: url(../images/hongkong1/h2.jpg);
     }
   }
  
