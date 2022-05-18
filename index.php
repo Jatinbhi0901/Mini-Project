@@ -44,7 +44,7 @@
             <h2>Tour Plans</h2>
 
             <div class="box">
-                <img src="images/Adventure.jpg" alt="qwe" width="350px"height="200px">
+                <a href="adventuretour.php"><img src="images/Adventure.jpg" alt="qwe" width="350px"height="200px"/></a>
                 <h3>Adventurous Tour</h3>
 
            
@@ -54,8 +54,8 @@
 
 
             <div class="box">
-                <img src="images/cruise.jpg" alt="qwe" width="350px"height="200px">
-                <h3>Cruise Tour</h3>
+                <img src="images/b.jpg" alt="qwe" width="350px"height="200px">
+                <h3>Beach</h3>
 
             </div>
 

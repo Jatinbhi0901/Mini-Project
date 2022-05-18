@@ -8,9 +8,11 @@
 
                     <li>
                         <img src="images/mainlogo.jpg" alt="" width="100px" class="logo">
+                        <img src="../images/mainlogo.jpg" alt="" width="100px" class="logo">
                     </li>
                     <li class="bar3">
                         <img src="images/world-icon.png" alt="">
+                        <img src="../images/world-icon.png" alt="">
                         <a href="#">World Tour</a>
                     </li>
 
@@ -18,6 +20,7 @@
 
                     <li>
                         <img src="images/time-icon.png" alt="">
+                        <img src="../images/time-icon.png" alt="">
                         <a href="#">9AM-10PM</a>
                     </li>
 
@@ -25,6 +28,7 @@
 
                     <li>
                         <img src="images/phone-icon.png" alt="" width="50px">
+                        <img src="../images/phone-icon.png" alt="" width="50px">
                         <a href="#">+91 9172942152</a>
                     </li>
 

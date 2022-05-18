@@ -1,0 +1,102 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    margin-left: 2rem;
+}
+
+h4{
+    margin-left: 2rem;
+    color: #0c2461;
+}
+
+
+.section1{
+    display: flex;
+    
+}
+.container1 {
+    width: 46%;
+    height:30rem;
+    left: 1%;
+    object-fit: fill;
+    transform: -50% -50%;
+    background-size: 100% 100%;
+    animation: slider 12s infinite;
+    opacity: inherit;
+    overflow: hidden;
+    margin-left: 11.5rem;
+    
+  }
+  @keyframes slider {
+    0% {
+      background-image: url(../images/goa/g1.jpg);
+    }
+    33.33% {
+      background-image: url(../images/goa/g2.jpg);
+    }
+    66.66% {
+      background-image: url(../images/goa/g3.png);
+    }
+    100% {
+        background-image: url(../images/goa/g1.jpg);
+    }
+  }
+ 
+  .container2{
+      background-color: #dfe6e9;
+      width: 29.5%;
+      height:30rem;
+  }
+  .line-3{
+      width: 25rem;  
+      margin-left: 2rem;
+  }
+  .b1{
+      display: flex;
+      gap: 2rem;
+      padding: 5%;
+  }
+
+
+
+
+
+
+
+
+
+.box{ 
+    width:1136px ;
+    height:max-content ;
+    border:1px solid black ;
+   background: transparent ;
+   margin: auto;
+ } 
+ .overview{
+     margin-left: 2rem;
+ }
+ p{
+     margin-left: 2rem;
+ }
+
+.day{
+    margin-left: 2rem;
+}
+.u{
+    color: red;
+}
+.line{
+    width: 90%;
+    margin:auto;
+    border-top: 1px solid black;
+}
+.trip{
+    background-color: #0c2461;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 45%;
+    margin-top: 2rem;
+    font-size: large;
+}
