@@ -174,49 +174,7 @@
     
 
 
-    <!-- <section class="section8" id="section8">
-        <div class="container8">
-
-            <h2>Contact Details</h2>
-
-            <div class="regi">
-                <img src="images/map.jpg" alt="qwe" class="img-responsive" class="center" width="50%">
-
-            </div>
-
-            <div class="regi2">
-                <h5>Registration for free</h5>
-                <h4>Name</h4>
-                <form >
-                    <input type="text">
-                </form>
-
-                <h4>E-Mail</h4>
-
-                <input type="email">
-
-
-                <h4>Contact No</h4>
-
-                <input type="number">
-
-
-                <button type="submit" class="btn2">Submit</button>
-
-            </div>
-
-            <div class="clearfix"></div>
-           
-
-        </div>
-    </section>
-
-
-
-
-
- -->
-
+  
 
 <br>
 <br><br>
