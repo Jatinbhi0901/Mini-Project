@@ -1,0 +1,81 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b1{
+    width: 40%;
+    height: 40rem;
+    margin: auto;
+    margin-top: 2.5rem;
+    background-color: #c8c6c6;
+    padding: 1rem;
+}
+.b2{
+    width: 90%;
+    height: 35rem;
+    margin: auto;
+    background-color: white;
+    box-shadow: 20px 25px rgb(122, 118, 118);
+    
+}
+.line{
+    width: 80%;
+    margin-top: 2rem;
+}
+.heading{
+   text-align: center;
+}
+.fn{
+    width: 12rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    border-radius: 3px;
+    
+}
+.ln{
+    width: 12rem;
+    padding: 0.5rem;
+    margin-left: 2rem;
+    border-radius: 3px;
+}
+.mail{
+    width: 27.7rem;
+    padding: 0.5rem;;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    border-radius: 3px;
+}
+.no1{
+    width: 12rem;
+    padding: 0.5rem;;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    border-radius: 3px;
+}
+.no2{
+    width: 12rem;
+    padding: 0.5rem;;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    border-radius: 3px;
+}
+.des{
+  margin-left: 3rem;
+  margin-top: 1rem;
+  border-color: black;
+  padding: 1rem;
+}
+.sub{
+    width: 29rem;
+    padding: 0.5rem;;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    border-radius: 3px;
+    color: white;
+    background-color: #7f8fa6;
+    border: none;
+    font-size: large;
+}
+.sub:hover{
+    background-color: #192a56;
+}
