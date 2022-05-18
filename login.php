@@ -1,3 +1,5 @@
+<?php include('config.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -19,17 +21,51 @@
         />
         <h1>Welcome Back!</h1>
         <p>Please login to your account</p>
-        <form action="">
-          <input type="email" placeholder="Enter email" class="text" />
+        <form action="" method="post">
+          <input type="email" name="email" placeholder="Enter email" class="text" />
           <br />
-          <input type="password" placeholder="Enter password" class="text" />
+          <input type="password" name="password" placeholder="Enter password" class="text" />
           <br />
           <a href="">Forget Password</a>
           <br />
-          <button class="btn1">Login</button>
-          <button class="btn2">Create Account</button>
+          
+          
+          <a href="register.php"><button class="btn2">Create Account</button></a>
+          <input type="submit" name="value" value="Login" class="btn1">
         </form>
+        
       </div>
+      <?php
+        if(isset($_POST['value'])){
+          $email = $_POST['email'];
+          $password = $_POST['password'];
+          
+          $sql = "select * from register where email='$email'";
+          $res = mysqli_query($conn,$sql) or die(mysqli_error());
+          
+          if($res==TRUE){
+            $query = mysqli_fetch_array($res);
+            if($query['email']==$email && password_verify($password,$query['password'])){
+              echo '<script>
+                      alert("Login successfull !");
+                      window.history.go(-2);
+                    </script>';
+            }
+            else{
+              echo '<script>
+                      alert("Wrong email or password. Try again !");
+                      window.history.go(-1);
+                    </script>';
+            }
+          }
+          else{
+            echo '<script>
+            alert("Login failed");
+          </script>';
+          }
+        }
+        
+      ?>
 
       <div class="box2">
         <img
