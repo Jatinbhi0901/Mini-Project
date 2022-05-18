@@ -31,16 +31,16 @@ h4{
   }
   @keyframes slider {
     0% {
-      background-image: url(../images/kash/k1.jpg);
+      background-image: url(../images/mal/mal1.jpg);
     }
     33.33% {
-      background-image: url(../images/kash/k2.jpg);
+      background-image: url(../images/mal/mal2.jpeg);
     }
     66.66% {
-      background-image: url(../images/kash/k3.jpg);
+      background-image: url(../images/mal/mal3.jpg);
     }
     100% {
-      background-image: url(../images/kash/k1.jpg);
+      background-image: url(../images/mal/mal3.jpg);
     }
   }
   .container2{

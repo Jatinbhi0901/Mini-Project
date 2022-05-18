@@ -57,8 +57,9 @@ p{
 a{
     text-align: center;
     font-size: 15px;
-    color: red;
+    
 }
+
 .btn1{
     width: 7rem;
     height:2rem;
@@ -72,7 +73,7 @@ a{
     border-radius: 7px;
 }
 .btn2{
-    width: 7rem;
+   width: fit-content;
     height:2rem;
     font-size: 14px;
     background-color: #0a3d62;

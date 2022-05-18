@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="css/login.css" />
   </head>
   <body>
+
+
     <section class="loginpage">
       <div class="box1">
         
@@ -30,8 +32,12 @@
           <br />
           
           
-          <a href="register.php"><button class="btn2">Create Account</button></a>
-          <input type="submit" name="value" value="Login" class="btn1">
+        
+ 
+          <button class="btn2" onclick="navigate()">create account</button>
+          
+          <button class="btn1" type="submit" name="value">Login</button>
+         
         </form>
         
       </div>
