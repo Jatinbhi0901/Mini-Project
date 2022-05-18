@@ -1,0 +1,104 @@
+/*
+        Author : Jatin Bhirud
+        Theam  : Tours and Travals
+*/
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+/*part1*/
+
+.bar1{
+    
+    border: 1px solid black;
+    margin: auto;
+    padding: 0%;
+    background-color:#0a3d62;
+    vertical-align: middle;
+}
+
+.m1 ul{
+    list-style: none;
+    text-align: center;
+    margin-left: 28rem;
+    
+    
+}
+.m1 ul li{
+    display: inline;
+    padding: 2%;
+    vertical-align: middle;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 15px;
+    
+    
+}
+
+a:hover{
+    color: red;
+}
+.lo{
+    font-size: 15px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-left: 15rem;
+}
+.reg{
+    font-size: 15px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-left: -2rem;
+}
+
+
+
+
+
+
+
+
+
+/*part2*/
+.bar2{
+    
+    margin: auto;
+    padding: 0%;
+    background-color:white;
+    
+}
+.m2 ul{
+    list-style: none;
+    text-align: center;
+    
+    
+}
+.m2 ul li{
+    display: inline;
+    padding: 2%;
+    
+    
+}
+b{
+    text-decoration: none;
+    color:black;
+    font-size: large;
+    
+    
+}
+
+b:hover{
+    color: red;
+}
+
+
+
