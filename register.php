@@ -18,13 +18,13 @@
       </div>
     <form action="" method="post">
       <h4 class="left">Enter your Name</h4>
-      <input type="text" name="name" class="abc" required/>
+      <input type="text" name="name" class="abc" />
       <br />
       <h4 class="left">Enter your E-mail address</h4>
-      <input type="email" name="email" class="abc" required />
+      <input type="email" name="email" class="abc"  />
       <br />
       <h4 class="left">Enter your Password</h4>
-      <input type="password" name="password" class="abc" required/>
+      <input type="password" name="password" class="abc" />
       
       <br />
       <br />
@@ -35,32 +35,32 @@
     </div>
     <?php
       if(isset($_POST['value'])){
+
+          $name = $_POST['name'];
+          $email = $_POST['email'];
+          $password =$_POST['password'];
+          $hash_password = password_hash($password, PASSWORD_DEFAULT);
+
+          //insert into database
+          $sql = "insert into register set name='$name', email = '$email', password= '$hash_password'";
         
-        //get data from form
 
-        $name = $_POST['name'];
-        $email = $_POST['email'];
-        $password =$_POST['password'];
-        $hash_password = password_hash($password, PASSWORD_DEFAULT);
+          $res = mysqli_query($conn,$sql) or die(mysqli_error($conn));
+          if($res==TRUE){
+              echo '<script>
+                    alert("Registered Successfully");
+                    window.history.go(-2);
+                    </script>';
 
-        //insert into database
-        $sql = "insert into register set name='$name', email = '$email', password= '$hash_password'";
-      
-
-        $res = mysqli_query($conn,$sql) or die(mysqli_error());
-        if($res==TRUE){
+          }
+          else{
             echo '<script>
-                  alert("Registered Successfully");
-                  window.history.go(-2);
+                    alert("Registeration failed");
+                    window.history.go(-1);
                   </script>';
-
-        }
-        else{
-          echo '<script>
-                  alert("Registeration failed");
-                  window.history.go(-1);
-                </script>';
-        }
+          }
+        
+      
       }
       if(isset($_POST['submit'])){
         header("location: login.php");
