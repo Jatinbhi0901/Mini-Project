@@ -19,7 +19,7 @@
     include("navigation.php")
     ?> 
 
-    <section class="section3">
+    <section class="section3" id="1">
         <div class="container3">
             <div class="main">
                 <ul>
@@ -39,7 +39,7 @@
     
 
 
-    <section class="section5">
+    <section class="section5" id="2">
         <div class="container5">
 
             <h2>Tour Plans</h2>
@@ -86,7 +86,7 @@
 
 
 
-    <section class="section6">
+    <section class="section6" id="3">
         <div class="container6">
             <f href="#">Create Your own Plans</f><br><br>
             <div class="find">
@@ -103,7 +103,7 @@
 
 
 
-    <section class="section7">
+    <section class="section7" id="4">
         <div class="container7">
             <h2>World Tour</h2>
 
@@ -189,7 +189,7 @@
 <br>
 <br><br>
 
-    <section class="section9">
+    <section class="section9" id="5">
         <div class="container9">
 
             <h2>Reviews</h2>
@@ -306,7 +306,7 @@
     </section>
 
 
-    <section class="section4">
+    <section class="section4" id="6">
         <div class="container4">
 
             <div class="menu4" text-align="right">
@@ -342,7 +342,7 @@
 
 
 
-    <section class="section10">
+    <section class="section10" id="7">
         <div class="container10">
             <div class="social">
                 <ul>
@@ -367,7 +367,7 @@
     </section>
 
 
-    <section class="section11">
+    <section class="section11" id="8">
         <div class="container11">
             <div class="footer">
                 <p1>All rights reserved , Designed by <c href="#">Jatin Bhirud</c>

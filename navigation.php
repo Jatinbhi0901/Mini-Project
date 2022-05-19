@@ -1,4 +1,4 @@
-<section class="nav1">
+<section class="nav1" id="9">
         <div class="bar1">
 
             <div class="m1" text-align="right">
@@ -55,7 +55,7 @@
     
 
 
-    <section class="nav2">
+    <section class="nav2" id="10">
         <div class="bar2">
 
             <div class="m2" text-align="right">
@@ -71,7 +71,7 @@
                         <b href="#">PLANS</b>
                     </li>
                     <li>
-                        <b href="#">REVIEWS</b>
+                        <b href="">REVIEWS</b>
                     </li>
                     <li>
                         <b href="#">CONTACT US</b>
