@@ -96,13 +96,8 @@
 .booknow:hover{
   background-color: #192a56;
 }
-ul{
-  margin-left: -6rem;
-}
-
-ul li{
-  text-align: center;
-  display: inline;
-    padding: 2%;
-   
+.bar4{
+  list-style: none;
+  display: flex;
+  gap: 3%;
 }
