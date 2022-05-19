@@ -24,9 +24,9 @@
         <h1>Welcome Back!</h1>
         <p>Please login to your account</p>
         <form action="" method="post">
-          <input type="email" name="email" placeholder="Enter email" class="text" required/>
+          <input type="email" name="email" placeholder="Enter email" class="text" />
           <br />
-          <input type="password" name="password" placeholder="Enter password" class="text" required/>
+          <input type="password" name="password" placeholder="Enter password" class="text" />
           <br />
           <a href="">Forget Password</a>
           <br />

@@ -169,9 +169,9 @@
       
        
     </section>
-    <form action="">
+    
     <a href="../login.php"><button class="trip">Book Now</button></a>
-    </form>
+
 </body>
 
 </html>
