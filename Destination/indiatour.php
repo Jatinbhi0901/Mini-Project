@@ -106,7 +106,13 @@
             <div>
                 <a href="../Destination/sikkim.php"><img src="../images/sikkim/s2.jpg" alt="" width="350px"
                         height="200px"></a>
-                <h3 class="heading">NORTH-EAST INDIA HONEYMOON TOUR</h3>
+                <h3 class="heading">North-East India Honeymoon Tour</h3>
+            </div>
+
+            <div>
+                <a href="../Destination/goa.php"><img src="../images/goa/g1.jpg" alt="" width="350px"
+                        height="200px"></a>
+                <h3 class="heading">Goa Beach Tours</h3>
             </div>
 
         </div>

@@ -109,7 +109,7 @@
             <div class="world">
                 
                 <div class="qwer">
-                    <img src="images/switzerland/p1.jpg" alt="qwe" width="400px" height="280px">
+                    <a href="Destination/europetour.php"><img src="images/switzerland/p1.jpg" alt="qwe" width="400px" height="280px"></a>
                 </div><br>
                 <h3> EUROPE</h3>
                 
@@ -118,7 +118,7 @@
             <div class="world">
                 
                 <div class="qwer">
-                    <img src="images/australia/a2.jpg" alt="qwe" width="400px" height="280px">
+                   <a href="Destination/australiatour.php"> <img src="images/australia/a2.jpg" alt="qwe" width="400px" height="280px"></a>
                 </div>
                 <br>
                 <h3> AUSTRALIA</h3>
@@ -129,7 +129,7 @@
             <div class="world">
                
                 <div class="qwer">
-                    <img src="images/bangkok.jpg" alt="qwe" width="400px" height="280px">
+                    <a href="Destination/bangkoktour.php"><img src="images/bangkok.jpg" alt="qwe" width="400px" height="280px"></a>
                 </div>
                 <br>
                 <h3> BANGKOK</h3>
@@ -141,7 +141,7 @@
             <div class="world">
                 
                 <div class="qwer">
-                    <img src="images/singpore.jfif " alt="qwe" width="400px" height="280px">
+                    <a href="Destination/singaporetour.php"><img src="images/singpore.jfif " alt="qwe" width="400px" height="280px"></a>
                 </div>
                 <br>
                 <h3> SINGAPORE</h3>
@@ -152,7 +152,7 @@
             <div class="world">
                
                 <div class="qwer">
-                    <img src="images/dubai.jpeg" alt="qwe" width="400px" height="280px">
+                    <a href="Destination/dubaitour.php"><img src="images/dubai.jpeg" alt="qwe" width="400px" height="280px"></a>
                 </div>
                 <br>
                 <h3> DUBAI</h3>
@@ -163,7 +163,7 @@
             <div class="world">
                
                 <div class="qwer">
-                    <img src="images/india.jpeg " alt="qwe" width="400px" height="280px">
+                    <a href="Destination/indiatour.php"><img src="images/india.jpeg " alt="qwe" width="400px" height="280px"></a>
                 </div>
                 <br>
                 <h3> INDIA</h3>
