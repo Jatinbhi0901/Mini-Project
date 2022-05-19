@@ -54,7 +54,7 @@
     <section class="section3">
          <div class="foot">
              <h1 class="bookcustom">Book your Custom tour with us!</h1>
-             <a href="form.php"><button class="booknow">Book Now</button></a>
+             <a href="../login.php"><button class="booknow">Book Now</button></a>
          </div>
     </section>
 

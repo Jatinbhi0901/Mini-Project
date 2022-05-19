@@ -50,10 +50,7 @@
           if($res==TRUE){
             $query = mysqli_fetch_array($res);
             if($query['email']==$email && password_verify($password,$query['password'])){
-              echo '<script>
-                      alert("Login successfull !");
-                      window.history.go(-2);
-                    </script>';
+              header("location: form.php");
             }
             else{
               echo '<script>

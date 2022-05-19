@@ -122,9 +122,7 @@
 
         </div>
     </section>
-    <form action="">
-        <button type="submit" class="trip">Book Now</button>
-    </form>
+    <a href="../login.php"><button class="trip">Book Now</button></a>
 </body>
 
 </html>
