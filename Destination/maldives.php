@@ -144,7 +144,7 @@
         </div>
     </section>
     <form action="">
-        <button type="submit" class="trip">Book Now</button>
+    <a href="../login.php"><button class="trip">Book Now</button></a>
     </form>
 </body>
 
