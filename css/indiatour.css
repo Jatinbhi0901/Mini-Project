@@ -1,109 +1,106 @@
 .container1 {
-    width: 70%;
-    margin: auto;
-    height:30rem;
-    background-image: url(../images/main/indiatour.jpg);
-    background-size: cover;
-  }
-  .hea1{
-    color: white;
-    text-align: center;
-    position: relative;
-    top: 12rem;
-    font-size: 20px;
-    font-family:Arial, Helvetica, sans-serif;
-  }
-  .hea2{
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    font-family :Arial, Helvetica, sans-serif;
-    position: relative;
-    top: 11rem
-    
-  }
-
-  .box{ 
-    width: 1050px ;
-    height:max-content ;
-    border:1px solid black ;
-   background: transparent ;
-   margin: auto;
- } 
- .overview{
-     margin-left: 2rem;
- }
- p{
-  margin-left: 2rem;
+  width: 70%;
+  margin: auto;
+  height:30rem;
+  background-image: url(../images/main/indiatour.jpg);
+}
+.hea1{
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 12rem;
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.hea2{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family :Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 11rem
+  
 }
 
-.mar{ 
-  width:70% ;
-  height:2rem;
-  border:1px solid red ;
+.box{ 
+  width: 1050px ;
+  height:max-content ;
+  border:1px solid black ;
  background: transparent ;
  margin: auto;
 } 
+.overview{
+   margin-left: 2rem;
+   list-style: none;
+}
+p{
+margin-left: 2rem;
+}
 
-  .section3{
-    width: 68%;
-    margin: auto;
-    background-color: #f2f2f2;
-    padding: 1rem;
+.mar{ 
+width:70% ;
+height:2rem;
+border:1px solid red ;
+background: transparent ;
+margin: auto;
+} 
+
+.section3{
+  width: 68%;
+  margin: auto;
+  background-color: #f2f2f2;
+  padding: 1rem;
 }
 .title2{
-  text-align: center;
-  color: rgb(92, 88, 88);
+text-align: center;
+color: rgb(92, 88, 88);
 }
 .row{
-    display: flex;
-    gap: 6%;
-    margin-left: 8.5rem;
+  display: flex;
+  gap: 6%;
+  margin-left: 8.5rem;
 }
 .heading{
-    text-align: center;
+  text-align: center;
 }
 
 
 
 .section4{
-  width: 68%;
-  margin: auto;
-  padding: 1rem;
-     padding: 10px;
-     box-shadow: 10px 10px #888888;
-     border-radius: 5px;
-     border: 0.1px solid #888888;
-  
+width: 68%;
+margin: auto;
+padding: 1rem;
+   padding: 10px;
+   box-shadow: 10px 10px #888888;
+   border-radius: 5px;
+   border: 0.1px solid #888888;
+
 }
 .foot{
- display: flex;
- gap: 2rem;
- 
+display: flex;
+gap: 2rem;
+
 }
 .booknow{
-  width: 7rem;
-  height: 3rem;
-  margin-top: 1rem;
-  background-color: #888888;
-  border: none;
-  color: white;
-  font-size: 15px;
-  border-radius: 15px;
+width: 7rem;
+height: 3rem;
+margin-top: 1rem;
+background-color: #888888;
+border: none;
+color: white;
+font-size: 15px;
+border-radius: 15px;
 }
 .bookcustom{
- margin-left: 18rem;
+margin-left: 18rem;
 }
 .booknow:hover{
-  background-color: #192a56;
-}
-ul{
-  margin-left: -6rem;
+background-color: #192a56;
 }
 
-ul li{
-  text-align: center;
-  display: inline;
-    padding: 2%;
-   
+
+.bar4{
+list-style: none;
+display: flex;
+gap: 3%;
 }

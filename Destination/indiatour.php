@@ -55,8 +55,8 @@
             </p>
             <br>
             <h2 class="overview">Services Available</h2>
-            <ul>
-                <li class="bar4">
+            <ul class="bar4">
+                <li >
                     <img src="https://img.icons8.com/external-gradients-pause-08/64/000000/external-aeroplane-travel2-gradients-pause-08.png"
                         width="50px" />
                 </li>
