@@ -342,40 +342,10 @@
 
 
 
-    <section class="section10" id="7">
-        <div class="container10">
-            <div class="social">
-                <ul>
-                    <li>
-                        <b href="#"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" /></b>
-                    </li>
-                    <li>
-                        <b href="#"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" /></b>
-                    </li>
-                    <li>
-                        <b href="#"><img src="https://img.icons8.com/color/50/000000/twitter--v2.png" /></b>
-                    </li>
-                    <li>
-                        <b href="#"><img src="https://img.icons8.com/color/50/000000/whatsapp--v4.png" /></b>
-                    </li>
-                    <li>
-                        <b href="#"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" /></b>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
+    
 
 
-    <section class="section11" id="8">
-        <div class="container11">
-            <div class="footer">
-                <p1>All rights reserved , Designed by <c href="#">Jatin Bhirud</c>
-                </p1>
-            </div>
-        </div>
-    </section>
-
+   
 
 
 </body>

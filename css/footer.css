@@ -1,0 +1,87 @@
+/* section4 starts from here */
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container4 {
+    width: 99%;
+    height: 180px;
+    margin: auto;
+    background-color: #12cbc4;
+  }
+  .up {
+    padding-top: 1cm;
+    padding-bottom: 0.5cm;
+    font-size: 0.6cm;
+    font-weight: bold;
+  }
+  table:first-child {
+    color: rgb(22, 22, 22);
+    margin-right: 1%;
+  }
+  
+  table:nth-child(2n) {
+    color: rgb(14, 12, 12);
+  }
+  
+  table {
+    text-align: center;
+    margin-left: 1.5cm;
+    width: 20%;
+    float: left;
+  }
+  .table {
+    font-size: 0.5cm;
+  }
+  .click {
+    color: white;
+    text-decoration: none;
+  }
+  .click:hover {
+    color: red;
+  }
+  
+  .containerlast {
+    width: 99%;
+    padding-bottom: 1rem;
+    height: 180px;
+    margin: auto;
+    padding-top: 1cm;
+   background-color: #12cbc4;
+    text-align: center;
+  }
+  .ft{
+      font-size: 20px;
+  }
+  .cl{
+      text-decoration: none;
+      color: red;
+  }
+  .cl:hover{
+      color: white;
+  }
+
+
+
+
+
+
+
+
+  .container10{
+    
+    width: 80%;
+    margin: auto;
+    padding: 0%;
+    margin-top: 3%; 
+}
+
+.social ul{
+    list-style: none;
+    text-align: center;
+    
+    
+}
+.social ul li{
+    display: inline;
+    padding: 2%;
+}
