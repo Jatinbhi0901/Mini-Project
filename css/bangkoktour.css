@@ -2,7 +2,9 @@
     width: 70%;
     margin: auto;
     height:30rem;
-    background-image: url(../images/main/europetour.jpg);
+    background-image: url(../images/bangkok/b2.jpg);
+    background-repeat: no-repeat;
+    
   }
   .hea1{
     color: white;
