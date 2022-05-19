@@ -26,25 +26,32 @@
         <div class="box">
             <h2 class="overview">Why Book India Tours with Us?</h2>
             <p>
-                The jewel of the Southern Hemisphere, Australia is an enviable holiday destination and if you miss out
-                on this, you certainly will fail to get the best travel experience of a lifetime. Be it the country’s
-                kicky cities like Sydney or the culturally opulent Canberra or the wildlife-rich Queensland and
-                Tasmania, you’d always have something or the other catching your eyes in a jiffy. The country also
-                boasts finest wine collection and a gourmet experience of succulent dishes that you can binge on and
-                wash them down with beer. An avid nature lover? Well, this southern country is going to spoil you for
-                choices with brilliant road connectivity that allows you to go wherever you point on a map. Right from
-                the rocky outcrops of Uluru to the Twelve Apostles, nature aficionados have a variety to witness and
-                capture in their camera lens.
+                India attracts millions of travelers from all over the world around the year with an enticing trip to
+                India. There are plenty of reasons to visit India – be it mountains or plains, beaches or backwaters,
+                wildlife tours or adventure activities, secluded islands or bustling metropolitan, culinary delights or
+                local drinks, spiritual holidays, or romantic vacations. For those travelers who are visiting India for
+                the first time, the tourist destinations in India offer every reason that makes them wish they stayed a
+                little longer in India. From celebrating grand festivals to hiking the top of the world, from train
+                journeys to enjoying traditional dance, find no dearth of excuses to visit India. The history buffs are
+                going to fall in love with this historical gem and will be left with no doubt or second thoughts as to
+                why visit India. Be it rock sculptures, archaeological sites, or monolith statues, every great monument
+                in India is associated with a greater historical significance. From north to south and east to west,
+                India is blessed with natural beauty in abundance. Just travel, explore and repeat. From Andamans to
+                Kerala to Pondicherry, there are numerous places to visit in India where you can witness nature in its
+                best form.
             </p>
 
-            <p>Wish to combine your nature tour with the wildlife one? Australia has a plethora of places where you can
-                catch a sight of native Kangaroos, wallabies, wombats, dingoes, and not to forget more than 700 species
-                of birds and one-of-its-kind, Daintree Rainforest, and Kakadu National Park. The country’s travel guide
-                also boasts gorgeous beaches, and of course a chance to relish the views of the popular Great Barrier
-                Reef. The cities in Australia also has a number of attractions for those on a family vacation. Also, if
-                you plan a big camping trip and are driving a caravan yourself, there are some well-appointed sites in
-                the towns and offbeat destinations in Australia. There is just so much to explore in Australia that you
-                will never have enough of this must-visit travel destination, so pack your bag and get going.
+            <p>The best part of India is its hospitality. The warm hospitality and personalized service is a common
+                traits of Indians not only in the country but all over the world. The best-in-class hospitality in India
+                is what travelers love and look forward to every time they visit India. Its also well known for its
+                delectable food that you can find in various states. You will encounter mouth-watering cuisines and
+                dishes at every nook and corner of this food-loving country. From fine dining to street food, it is a
+                strict no-no to miss out on relishing the famous delicacies when in India. Being the land of Mughals and
+                Nawabs, luxury is the effortless synonym of India. From the Nawabs of Rajasthan to the Nizams of
+                Hyderabad, India houses numerous palaces and forts in which travelers revel in royal luxury. Indian
+                talent also needs no introduction. Land of Bharatnatyam, Kathakali, Kuchipudi, Theatre, Drama, etc., the
+                performing arts form the heart and soul of India that brings recognition to the country on a national
+                and international level.
             </p>
             <br>
             <h2 class="overview">Services Available</h2>

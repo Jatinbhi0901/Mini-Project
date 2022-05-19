@@ -2,7 +2,8 @@
     width: 70%;
     margin: auto;
     height:30rem;
-    background-image: url(../images/main/India-Tour.jpg);
+    background-image: url(../images/main/indiatour.jpg);
+    background-size: cover;
   }
   .hea1{
     color: white;
@@ -57,7 +58,7 @@
 .row{
     display: flex;
     gap: 6%;
-    margin-left: 10rem;
+    margin-left: 8.5rem;
 }
 .heading{
     text-align: center;
