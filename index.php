@@ -101,7 +101,7 @@
                             $sql = "select * from destination";
                             $res = mysqli_query($conn,$sql) or die(mysqli_error($conn));
                             while($row = mysqli_fetch_array($res)){
-                                $val=$row['keywords'];
+                                $val=$row['keywords'];  
                             }
                         ?>
                     }
