@@ -1,3 +1,4 @@
+<?php include("config.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -89,10 +90,22 @@
         <div class="container6">
             <f href="#">Create Your own Plans</f><br><br>
             <div class="find">
-                <form action="">
-                    <input type="search" name="search" placeholder="Choose Your Favourite Destination....">
+                <form action="" method="post">
+                    <input type="search" name="search" id ="input" placeholder="Choose Your Favourite Destination" onkeyup="searchfunc()">
                     <input type="submit" name="submit" value="Search" class="btn1">
                 </form>
+                <script>
+                    function searchfunc(){
+                        let filter=document.getElementById('input').value.toUpperCase();
+                        <?php
+                            $sql = "select * from destination";
+                            $res = mysqli_query($conn,$sql) or die(mysqli_error($conn));
+                            while($row = mysqli_fetch_array($res)){
+                                $val=$row['keywords'];
+                            }
+                        ?>
+                    }
+                </script>
             </div>
 
         </div>
