@@ -44,7 +44,7 @@
             <h2>Tour Plans</h2>
 
             <div class="box">
-                <a href="adventuretour.php"><img src="images/Adventure.jpg" alt="qwe" width="350px"height="200px"/></a>
+                <a href="Destination/adventuretour.php"><img src="images/Adventure.jpg" alt="qwe" width="350px"height="200px"/></a>
                 <h3>Adventurous Tour</h3>
 
            
@@ -54,7 +54,7 @@
 
 
             <div class="box">
-                <img src="images/b.jpg" alt="qwe" width="350px"height="200px">
+                <a href="Destination/beachestour.php"><img src="images/b.jpg" alt="qwe" width="350px"height="200px"></a>
                 <h3>Beach</h3>
 
             </div>
@@ -63,7 +63,7 @@
 
 
             <div class="box">
-                <img src="images/honeymoon.jpg" alt="qwe"width="350px" height="200px">
+                <a href="Destination/honeymoontour.php"><img src="images/honeymoon.jpg" alt="qwe"width="350px" height="200px"></a>
                 <h3>Honeymoon Tour</h3>
 
             </div>
@@ -72,7 +72,7 @@
 
 
             <div class="box">
-                <img src="images/family.jpg" alt="qwe"width="350px"height="200px">
+                <a href="Destination/family.php"><img src="images/family.jpg" alt="qwe"width="350px"height="200px"></a>
                 <h3>Family Tour</h3>
 
             </div>
@@ -106,18 +106,19 @@
             <div class="world">
                 <p>
                 <div class="qwer">
-                    <img src="images/london.jfif" alt="qwe" width="400px">
+                    <img src="images/switzerland/p1.jpg" alt="qwe" width="400px" height="280px">
                 </div><br>
-                <h3> LONDON</h3>
+                <h3> EUROPE</h3>
                 </p>
             </div>
 
             <div class="world">
                 <p>
                 <div class="qwer">
-                    <img src="images/paris.jpg" alt="qwe" width="400px">
+                    <img src="images/australia/a2.jpg" alt="qwe" width="400px" height="280px">
                 </div>
-                <h3> PARIS</h3>
+                <br>
+                <h3> AUSTRALIA</h3>
                 </p>
             </div>
 
@@ -125,18 +126,21 @@
             <div class="world">
                 <p>
                 <div class="qwer">
-                    <img src="images/bangkok.jpg" alt="qwe"  width="400px">
+                    <img src="images/bangkok.jpg" alt="qwe"  width="400px" height="280px">
                 </div>
+                <br>
                 <h3> BANGKOK</h3>
                 </p>
             </div>
+            
 
 
             <div class="world">
                 <p>
                 <div class="qwer">
-                    <img src="images/singpore.jfif " alt="qwe" width="400px">
+                    <img src="images/singpore.jfif " alt="qwe" width="400px" height="280px">
                 </div>
+                <br>
                 <h3> SINGAPORE</h3>
                 </p>
             </div>
@@ -145,8 +149,9 @@
             <div class="world">
                 <p>
                 <div class="qwer">
-                    <img src="images/dubai.jpeg" alt="qwe"  width="400px">
+                    <img src="images/dubai.jpeg" alt="qwe"  width="400px" height="280px">
                 </div>
+                <br>
                 <h3> DUBAI</h3>
                 </p>
             </div>
@@ -155,8 +160,9 @@
             <div class="world">
                 <p>
                 <div class="qwer">
-                    <img src="images/india.jpeg " alt="qwe" width="400px">
+                    <img src="images/india.jpeg " alt="qwe" width="400px" height="280px">
                 </div>
+                <br>
                 <h3> INDIA</h3>
                 </p>
             </div>
