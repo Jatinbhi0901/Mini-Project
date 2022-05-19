@@ -302,7 +302,7 @@
             <div class="menu4" text-align="right">
                 <div class="about">
                     <h2>About Us</h2>
-                    <ul>
+                    <!-- <ul>
                         <li>
                             <img src="images/dot.png" alt="">
                             <g href="#">Our company will take care of your happy and safe journey. It's well-known for
@@ -318,7 +318,22 @@
                             <g href="#">Online booking available</g>
                             <img src="images/laptop.png" alt="">
                         </li>
-                    </ul>
+                    </ul> -->
+                    Explorer is an online travel platform where determination and commitment have always exceeded
+                     travellers’ expectations. The platform provides information regarding all the destinations 
+                     in India, from the remote lifestyle tucked in the Indian Himalayas to the underwater coral 
+                     life of Andaman and from the tribes of North East India to the royal heritage of Rajasthan.
+                     The travel portal also includes a wide range of information on hotels and resorts in India, 
+                     from budget to heritage and luxury, as well as it scrolls down to wildlife safari tours, 
+                     beach holidays, hill station tours, and adventure tours that include trekking, white water 
+                     river rafting, peak climbing, mountaineering, mountain biking and motorbiking. Moreover, 
+                     keeping in mind the need of leisure travellers, who seek to capture the rich heritage of 
+                     India, the portal also, offers various heritage, cultures, and pilgrimage.<br><br>
+                     <b>Our services:</b> Personalized assistance on arrival & departure, all sorts of transfer 
+                     from car to coach in any city in India, accommodation in all categories of hotels from 
+                     budget to 5 Star hotels all over India, multilingual guide services, escort services, air, 
+                     train and bus tickets, sightseeing in comfortable chauffeur driver cars to coaches, pecial 
+                     cultural theme events if any, etc
                 </div>
             </div>
 
