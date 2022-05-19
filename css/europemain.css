@@ -1,0 +1,13 @@
+.container1 {
+    width: 46%;
+    height:30rem;
+    left: 1%;
+    object-fit: fill;
+    transform: -50% -50%;
+    background-size: 100% 100%;
+    animation: slider 12s infinite;
+    opacity: inherit;
+    overflow: hidden;
+    margin-left: 11.5rem;
+    background-image: url(../images/m);
+  }
