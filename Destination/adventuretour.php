@@ -39,12 +39,16 @@
         <br>
         <div class="row">
             <div>
+
                 <a href="../Destination/nepal.php"><img src="../images/nepal/n1.jpg" alt="" width="350px" height="200px"></a>
+
                 <h3 class="heading">Everest Base Camp Lodge Trek</h3>
             </div>
 
             <div>
+
                <a href="../Destination/kashmir.php"> <img src="../images/kash/k3.jpg" alt="" width="350px" height="200px"></a>
+
                 <h3 class="heading">Best of Kashmir</h3>
             </div>
         </div>

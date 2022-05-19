@@ -44,7 +44,9 @@
             <h2>Tour Plans</h2>
 
             <div class="box">
+
                 <a href="Destination/adventuretour.php"><img src="images/Adventure.jpg" alt="qwe" width="350px"height="200px"/></a>
+
                 <h3>Adventurous Tour</h3>
 
            
