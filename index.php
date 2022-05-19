@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,14 +9,15 @@
 
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/navigation.css">
+    <link rel="stylesheet" href="css/footer.css">
 
 </head>
 
 <body>
 
-<?php 
+    <?php 
     include("navigation.php")
-    ?> 
+    ?>
 
     <section class="section3" id="1">
         <div class="container3">
@@ -41,18 +41,20 @@
 
             <div class="box">
 
-                <a href="Destination/adventuretour.php"><img src="images/Adventure.jpg" alt="qwe" width="350px"height="200px"/></a>
+                <a href="Destination/adventuretour.php"><img src="images/Adventure.jpg" alt="qwe" width="350px"
+                        height="200px" /></a>
 
                 <h3>Adventurous Tour</h3>
 
-           
+
             </div>
 
 
 
 
             <div class="box">
-                <a href="Destination/beachestour.php"><img src="images/b.jpg" alt="qwe" width="350px"height="200px"></a>
+                <a href="Destination/beachestour.php"><img src="images/b.jpg" alt="qwe" width="350px"
+                        height="200px"></a>
                 <h3>Beach</h3>
 
             </div>
@@ -61,7 +63,8 @@
 
 
             <div class="box">
-                <a href="Destination/honeymoontour.php"><img src="images/honeymoon.jpg" alt="qwe"width="350px" height="200px"></a>
+                <a href="Destination/honeymoontour.php"><img src="images/honeymoon.jpg" alt="qwe" width="350px"
+                        height="200px"></a>
                 <h3>Honeymoon Tour</h3>
 
             </div>
@@ -70,7 +73,8 @@
 
 
             <div class="box">
-                <a href="Destination/family.php"><img src="images/family.jpg" alt="qwe"width="350px"height="200px"></a>
+                <a href="Destination/family.php"><img src="images/family.jpg" alt="qwe" width="350px"
+                        height="200px"></a>
                 <h3>Family Tour</h3>
 
             </div>
@@ -86,10 +90,10 @@
             <f href="#">Create Your own Plans</f><br><br>
             <div class="find">
                 <form action="" method="post">
-                    <input type="search" name="search" placeholder="Choose Your Favourite Destination" >
+                    <input type="search" name="search" placeholder="Choose Your Favourite Destination">
                     <input type="submit" name="submit" value="Search" class="btn1">
                 </form>
-                
+
             </div>
 
         </div>
@@ -103,67 +107,67 @@
             <h2>World Tour</h2>
 
             <div class="world">
-                <p>
+                
                 <div class="qwer">
                     <img src="images/switzerland/p1.jpg" alt="qwe" width="400px" height="280px">
                 </div><br>
                 <h3> EUROPE</h3>
-                </p>
+                
             </div>
 
             <div class="world">
-                <p>
+                
                 <div class="qwer">
                     <img src="images/australia/a2.jpg" alt="qwe" width="400px" height="280px">
                 </div>
                 <br>
                 <h3> AUSTRALIA</h3>
-                </p>
+                
             </div>
 
 
             <div class="world">
-                <p>
+               
                 <div class="qwer">
-                    <img src="images/bangkok.jpg" alt="qwe"  width="400px" height="280px">
+                    <img src="images/bangkok.jpg" alt="qwe" width="400px" height="280px">
                 </div>
                 <br>
                 <h3> BANGKOK</h3>
-                </p>
+                
             </div>
-            
+
 
 
             <div class="world">
-                <p>
+                
                 <div class="qwer">
                     <img src="images/singpore.jfif " alt="qwe" width="400px" height="280px">
                 </div>
                 <br>
                 <h3> SINGAPORE</h3>
-                </p>
+                
             </div>
 
 
             <div class="world">
-                <p>
+               
                 <div class="qwer">
-                    <img src="images/dubai.jpeg" alt="qwe"  width="400px" height="280px">
+                    <img src="images/dubai.jpeg" alt="qwe" width="400px" height="280px">
                 </div>
                 <br>
                 <h3> DUBAI</h3>
-                </p>
+                
             </div>
 
 
             <div class="world">
-                <p>
+               
                 <div class="qwer">
                     <img src="images/india.jpeg " alt="qwe" width="400px" height="280px">
                 </div>
                 <br>
                 <h3> INDIA</h3>
-                </p>
+               
             </div>
 
 
@@ -176,10 +180,10 @@
 
         </div>
     </section>
-<br>
-<br><br>
+    <br>
+    <br><br>
 
-<section class="section9" id="5">
+    <section class="section9" id="5">
         <div class="container9">
 
             <h2>Reviews</h2>
@@ -238,7 +242,7 @@
 
             <div class="rev">
                 <div class="xyz">
-                    <img src="images/person3.jpeg" alt="qwe"  width="300px">
+                    <img src="images/person3.jpeg" alt="qwe" width="300px">
                 </div>
                 <h3>Loved It!!</h3>
 
@@ -298,47 +302,31 @@
 
     <section class="section4" id="6">
         <div class="container4">
+            <h2>About Us</h2>
 
-            <div class="menu4" text-align="right">
-                <div class="about">
-                    <h2>About Us</h2>
-                    <!-- <ul>
-                        <li>
-                            <img src="images/dot.png" alt="">
-                            <g href="#">Our company will take care of your happy and safe journey. It's well-known for
-                                it's hosptitality. Please go on your wonderful journey with us!!</g>
-                        </li>
-                        <li>
-                            <img src="images/dot.png" alt="">
-                            <g href="#">Travel and explore the world</g>
-                            <g href="#"><img src="https://img.icons8.com/emoji/40/000000/airplane-emoji.png" /></g>
-                        </li>
-                        <li>
-                            <img src="images/dot.png" alt="">
-                            <g href="#">Online booking available</g>
-                            <img src="images/laptop.png" alt="">
-                        </li>
-                    </ul> -->
-                    Explorer is an online travel platform where determination and commitment have always exceeded
-                     travellers’ expectations. The platform provides information regarding all the destinations 
-                     in India, from the remote lifestyle tucked in the Indian Himalayas to the underwater coral 
-                     life of Andaman and from the tribes of North East India to the royal heritage of Rajasthan.
-                     The travel portal also includes a wide range of information on hotels and resorts in India, 
-                     from budget to heritage and luxury, as well as it scrolls down to wildlife safari tours, 
-                     beach holidays, hill station tours, and adventure tours that include trekking, white water 
-                     river rafting, peak climbing, mountaineering, mountain biking and motorbiking. Moreover, 
-                     keeping in mind the need of leisure travellers, who seek to capture the rich heritage of 
-                     India, the portal also, offers various heritage, cultures, and pilgrimage.<br><br>
-                     <b>Our services:</b> Personalized assistance on arrival & departure, all sorts of transfer 
-                     from car to coach in any city in India, accommodation in all categories of hotels from 
-                     budget to 5 Star hotels all over India, multilingual guide services, escort services, air, 
-                     train and bus tickets, sightseeing in comfortable chauffeur driver cars to coaches, pecial 
-                     cultural theme events if any, etc
-                </div>
-            </div>
+            <p class="aboutus">Explorer is an online travel platform where determination and commitment have always exceeded
+                travellers’ expectations. The platform provides information regarding all the destinations
+                in India, from the remote lifestyle tucked in the Indian Himalayas to the underwater coral
+                life of Andaman and from the tribes of North East India to the royal heritage of Rajasthan.
+                The travel portal also includes a wide range of information on hotels and resorts in India,
+                from budget to heritage and luxury, as well as it scrolls down to wildlife safari tours,
+                beach holidays, hill station tours, and adventure tours that include trekking, white water
+                river rafting, peak climbing, mountaineering, mountain biking and motorbiking. Moreover,
+                keeping in mind the need of leisure travellers, who seek to capture the rich heritage of
+                India, the portal also, offers various heritage, cultures, and pilgrimage.</p>
+            <b>Our services:</b> <p  class="aboutus">Personalized assistance on arrival & departure, all sorts of transfer
+                from car to coach in any city in India, accommodation in all categories of hotels from
+                budget to 5 Star hotels all over India, multilingual guide services, escort services, air,
+                train and bus tickets, sightseeing in comfortable chauffeur driver cars to coaches, pecial
+                cultural theme events if any, etc</p>
+                <br>
+
 
         </div>
     </section>
+    <?php 
+    include("footer.php")
+    ?>
 
 
 </body>

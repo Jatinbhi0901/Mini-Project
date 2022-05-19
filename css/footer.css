@@ -2,11 +2,11 @@
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.container4 {
+.containerend {
     width: 99%;
-    height: 180px;
+    height: 430px;
     margin: auto;
-    background-color: #12cbc4;
+    background-color: #2980b9;
   }
   .up {
     padding-top: 1cm;
@@ -35,45 +35,24 @@
   .click {
     color: white;
     text-decoration: none;
+    font-size: 18px;
   }
   .click:hover {
     color: red;
   }
   
-  .containerlast {
-    width: 99%;
-    padding-bottom: 1rem;
-    height: 180px;
-    margin: auto;
-    padding-top: 1cm;
-   background-color: #12cbc4;
-    text-align: center;
-  }
   .ft{
       font-size: 20px;
+      text-align: center;
   }
   .cl{
       text-decoration: none;
       color: red;
+      font-size: 18px;
   }
   .cl:hover{
       color: white;
   }
-
-
-
-
-
-
-
-
-  .container10{
-    
-    width: 80%;
-    margin: auto;
-    padding: 0%;
-    margin-top: 3%; 
-}
 
 .social ul{
     list-style: none;
